@@ -1,0 +1,2 @@
+# teavalidator
+testnet staking project
